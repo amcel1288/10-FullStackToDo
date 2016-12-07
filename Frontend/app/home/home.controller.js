@@ -36,7 +36,7 @@
       vm.newId = 0;
       vm.getClass = getClass;
       vm.updateSelected = updateSelected;
-      vm.updatePriority = updatePriority;
+      
 
 
         function addThing() {
